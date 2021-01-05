@@ -45,7 +45,7 @@ public class Part3 {
         processGenes(genes);
     }
 
-
+    // Codes from part 1 & 2
     public float cgRatio(String dna){
         float numOfCnG = 0;
         String dnaupper = dna.toUpperCase();
